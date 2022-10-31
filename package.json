@@ -1,0 +1,23 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "유튜브 클론입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lhh0704/wetube-clone.git"
+  },
+  "author": "투비",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lhh0704/wetube-clone/issues"
+  },
+  "homepage": "https://github.com/lhh0704/wetube-clone#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
